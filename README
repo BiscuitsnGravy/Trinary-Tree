@@ -1,0 +1,3 @@
+A typical binary tree program with the options to add, remove, or print out the tree. The twist to the tree
+is that a third node is added called middle, which stores numbers that are equal to the root of the tree;
+while numbers less than the root go to the left and numbers greater than the root go to the right.
